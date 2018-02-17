@@ -12,8 +12,8 @@ Below I've listed them incase that changes;
 1. User Story: I can clear the board.
 1. User Story: When I press start, the game will play out.
 1. User Story: Each time the board changes, I can see how many generations have gone by.
-1. Hint: Here's an explanation of Conway's Game of Life from John Conway himself: https://www.youtube.com/watch?v=E8kUJL04ELA
-1. Hint: Here's an overview of Conway's Game of Life with rules for your reference: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+1. Hint: Here's an explanation of Conway's Game of Life from John Conway himself: [Video](./wikipedia.mp4)
+1. Hint: Here's an overview of Conway's Game of Life with rules for your reference: [Wikipedia](./wikipedia.md)
    
 ## Getting Started
 
